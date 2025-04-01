@@ -41,7 +41,7 @@ let myFun=function()
 //--
 
 //Note:
-//Primitive dataTypes are stored in Heap memory.
+//Non-Primitive dataTypes are stored in Heap memory.
 //e.g
 let newObj=myObj;
 newObj.firstName="Rushikesh";//Direct change to the object which is located in Heap Memory.
